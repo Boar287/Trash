@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.468,D:\C++Builder\Unit3.cpp=D:\C++Builder\BinaryTreeFlex.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.663,=D:\C++Builder\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,=D:\C++Builder\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,D:\C++Builder\Project7.cbproj=D:\C++Builder\Laba6.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,D:\C++Builder\Project7.cbproj=D:\C++Builder\Project7.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,D:\C++Builder\Unit3.cpp=D:\C++Builder\BinaryTree.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,D:\C++Builder\Unit3.h=D:\C++Builder\BinaryTree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,=D:\C++Builder\Project7PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,D:\C++Builder\Project7PCH1.h=D:\C++Builder\Laba6PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,=D:\C++Builder\Unit13.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,D:\C++Builder\Unit3.h=D:\C++Builder\BinaryTreeFlex.h</Transaction>
+    <Transaction>2021.05.04 18:56:14.090,D:\C++Builder\BinaryTreeFlex.cpp=</Transaction>
+    <Transaction>2021.05.04 19:03:02.743,D:\C++Builder\ZhekoPCH1.h=D:\C++Builder\Laba6PCH1.h</Transaction>
+    <Transaction>2021.05.04 19:03:02.764,D:\C++Builder\Zheko.cbproj=D:\C++Builder\Laba6.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit13.cpp"/>
+    <File Path="Unit13.cpp"/>
+    <File Path="Unit13.dfm"/>
+    <File Path="Unit13.h"/>
+    <File Path="ZhekoPCH1.h"/>
+    <File Path="Zheko.cpp"/>
+    <File Path="BinaryTree.cpp"/>
+    <File Path="BinaryTree.cpp"/>
+    <File Path="BinaryTree.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
