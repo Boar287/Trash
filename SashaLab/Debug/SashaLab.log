@@ -1,0 +1,3 @@
+﻿  SashaLab.cpp
+D:\ProjectC\SashaLab\SashaLab.cpp(11,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SashaLab.vcxproj -> D:\ProjectC\SashaLab\Debug\SashaLab.exe

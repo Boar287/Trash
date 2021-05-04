@@ -1,0 +1,2 @@
+D:\ProjectC\SashaLab\Debug\SashaLab.exe
+D:\ProjectC\SashaLab\Debug\SashaLab.pdb
